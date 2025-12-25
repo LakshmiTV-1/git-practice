@@ -1,2 +1,2 @@
-echo "this is the first git file" >> file1.txt
+echo "dev branch change" >> file1.txt
 
