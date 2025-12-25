@@ -1,2 +1,2 @@
-echo "dev branch change" >> file1.txt
+echo "upadate the changes from dev branch change" >> file1.txt
 
