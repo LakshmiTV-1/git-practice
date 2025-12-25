@@ -1,2 +1,2 @@
-echo "upadate the changes from dev branch change" >> file1.txt
+echo "created day branch" >> file1.txt
 
